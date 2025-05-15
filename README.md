@@ -1,5 +1,5 @@
 # PATRICIA OS
-Command line interface built upon sensor technologies, tone generation, and music production techniques using Python and Ableton Live.
+Command line interface built upon sensor technologies, tone generation, and music production techniques using Python and Ableton Live. Music originally composed, edited and mixed by @glezpaul aka Paul Gonzalez
 
 ## Setup Guide
 
@@ -15,7 +15,7 @@ First, download the project archive (e.g., a .zip file) from the source provided
 
 Next, open your Terminal (on macOS/Linux) or Command Prompt/PowerShell (on Windows). Use the cd command to change into the project directory you just unzipped.
 
-```cd ~/Downloads/patricia-os```
+```cd ~/Downloads/patricia-os-main```
 
 ### Step 3: Create and Activate a Virtual Environment
 It's recommended to use a Python virtual environment for this project to isolate its dependencies. Python 3.13 comes with the built-in venv module to create virtual environments.
